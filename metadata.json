@@ -1,0 +1,11 @@
+{
+  "name": "Watchdog Cam",
+  "description": "Local network Walkie-Cam and security monitor with live camera feed, two-way walkie-talkie audio, real-time chat, and automated motion and presence detection alarm.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
